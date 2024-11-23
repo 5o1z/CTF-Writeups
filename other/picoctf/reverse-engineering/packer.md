@@ -4,7 +4,7 @@
 
 > Reverse this linux executable?
 
-## Analysis
+## Solution
 
 Nhìn vào size của file ta có thể thấy file này đã được packed
 
