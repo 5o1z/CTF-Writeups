@@ -37,3 +37,4 @@
 * [PicoCTF](other/picoctf/README.md)
   * [Reverse Engineering](other/picoctf/reverse-engineering/README.md)
     * [Transformation](other/picoctf/reverse-engineering/transformation.md)
+    * [Packer](other/picoctf/reverse-engineering/packer.md)
